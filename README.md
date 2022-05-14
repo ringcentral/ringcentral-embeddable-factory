@@ -3,6 +3,10 @@
 
 A online tool to generate customized [ringcentral-embeddable](https://github.com/ringcentral/ringcentral-embeddable) resources.
 
+## Preview video
+
+https://youtu.be/01xJs8cv3Oo
+
 ## Use
 
 todo

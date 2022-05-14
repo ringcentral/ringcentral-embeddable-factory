@@ -98,6 +98,7 @@ export default function FormVote (props) {
           </Button>
           <Button
             type='ghost'
+            className='mg1l'
             onClick={preview}
           >
             Preview
